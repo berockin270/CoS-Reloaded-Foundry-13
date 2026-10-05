@@ -1,0 +1,103 @@
+{
+  "id": "cosr-foundry-13",
+  "title": "CoS:R Foundry 13",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13",
+    "maximum": "13.351"
+  },
+  "description": "<p>Just a blank module to group the needed modules for my campaign.</p>",
+  "flags": {
+    "canUpload": true
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "auraeffects",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "automated-conditions-5e",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "cosrl-escape-from-death-house",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dae",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dae",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "ddb-importer",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "eidolon-utilities",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "fxmaster",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "levels",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-active-tiles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "socketlib",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "tagger",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "theripper-premium-hub",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "tokenizer-2",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "vision-5e",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "wall-height",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}
